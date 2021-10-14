@@ -365,7 +365,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 {
-    min-height: 2029px;
+    min-height: 1920px;
   }
 
   .u-section-1 .u-group-1 {
@@ -395,6 +395,11 @@
 @media (max-width: 390px) {  
   .u-section-1 .u-group-1 {
     min-height: 550px;
+  }
+}
+@media (max-width: 360px) {  
+  .u-section-1 .u-group-1 {
+    min-height: 530px;
   }
 }
 
